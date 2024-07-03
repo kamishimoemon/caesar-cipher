@@ -11,7 +11,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"Kamishimoemon\\CaesarCipher\\": "src/"
+			"Kamishimoemon\\Caesar\\": "src/"
 		}
 	},
 	"require": {},
